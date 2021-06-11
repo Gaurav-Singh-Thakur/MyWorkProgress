@@ -1,2 +1,2 @@
 # MyWorkProgress
-This repository contains all the works related to Data Science &amp; AI\ML assignments &amp; case studies
+This repository contains all the assignments & case studies related with Data Science & AI\ML.
